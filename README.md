@@ -13,7 +13,8 @@ A Python GUI application that auto-generates professional `README.md` files usin
 Python, Tkinter, Jinja2
 
 ## 📸 Screenshots
-![App UI](images/screenshot (26).png) <!-- Replace with your actual screenshot -->
+ ![Screenshot](C:\Users\Dell\OneDrive\Desktop\python\GitHubPort.py\images\Screenshot (26).png)
+<!-- Replace with your actual screenshot -->
 
 ## 🚀 How to Run
 ```bash
