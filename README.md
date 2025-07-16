@@ -1,21 +1,21 @@
-# 
+# 🛠 GitHub Portfolio Builder
 
-## Description
+A Python GUI application that auto-generates professional `README.md` files using Jinja2 templates. Built for developers who want to present their projects cleanly and efficiently.
 
+## 🎨 Features
+- Tkinter-based interface for easy input
+- Multiple README template styles (minimal, emoji-rich, expressive)
+- Screenshot uploader
+- Live README preview panel
+- Markdown-ready output with tech stack, links, and visuals
 
-## Features
-- 
-- 
+## ⚙️ Tech Stack
+Python, Tkinter, Jinja2
 
-## Installation
+## 📸 Screenshots
+![App UI](output/screenshot.png) <!-- Replace with your actual screenshot -->
 
-
-## Technologies
-
-
-## Screenshots
-![screenshot]
-
-## Connect with me
-- GitHub: 
-- LinkedIn: 
+## 🚀 How to Run
+```bash
+pip install jinja2
+python main.py
